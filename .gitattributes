@@ -1,0 +1,10 @@
+* text=auto
+
+# These files are always considered text and should use LF.
+# See core.whitespace @ http://git-scm.com/docs/git-config for whitespace flags.
+*.md   text eol=lf whitespace=blank-at-eol,blank-at-eof,space-before-tab,tab-in-indent,tabwidth=2 diff=tex
+
+*.png  binary
+*.gif  binary
+*.jpg  binary
+*.jpeg binary
