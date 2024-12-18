@@ -11,13 +11,13 @@
 If you're using <a href="https://github.com/php/php-src">PHP</a> or your projects depend on any of its most spreaded  projects (<a href="https://github.com/composer/composer">Composer</a>, <a href="https://github.com/guzzle/guzzle">Guzzle</a>, <a href="https://github.com/Seldaek/monolog">Monolog</a>, <a href="https://github.com/FriendsOfPHP/PHP-CS-Fixer">PHP-CS-Fixer</a>, <a href="https://github.com/symfony">Symfony</a>, <a href="https://github.com/doctrine">Doctrine</a>, <a href="https://github.com/twigphp/Twig">Twig</a>, etc.), you surely are using a package where I've contributed to.
 I like challenges and stay one step ahead about technology, standards, guidelines and best practices.</p>
 
-<p>In the corporate scope, I currently work as software architect and product tech lead at <a href="https://github.com/nubity">@nubity</a>.</p>
+<p>In the corporate scope, I currently work as Enterprise Solution Architect at <a href="https://github.com/nubity">@nubity</a>.</p>
 
-- 💬 Ask me about **Product management**, **software architecture**, **design patterns**, **OOP**, **PHP**, **Symfony**, **Doctrine**, **Composer**, **Git**, etc.
+- 💬 Ask me about **Product management**, **Enterprise Solution Architecture**, **DevOps**, **Source Control Management**, **design patterns**, **OOP**, etc.
 
 - 🔐 Get my [GPG key](https://pgp.mit.edu/pks/lookup?op=get&search=0x255ECF64F4695788) from the MIT PGP Key Server
 
-- 🥇 Verify my [public certifications](https://www.youracclaim.com/users/javier-spagnoletti/badges) at Credly
+- 🥇 Check my [public certifications](https://cp.certmetrics.com/amazon/en/public/verify/credential/0611992712a34df3bfc96069076f6a76)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
